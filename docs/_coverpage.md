@@ -7,7 +7,6 @@
 
 Code Project旨在分享github、gitee上的高质量开源项目。 涵盖了java、python、go、前端等主流编程语言，欢迎大家及时修正
 
-[GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](README.md)
 
 
