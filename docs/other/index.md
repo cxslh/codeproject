@@ -111,6 +111,9 @@ SSM水果源码：<br />[https://share.weiyun.com/FqoOfIVc](https://share.weiyun
 
 ### other
 
+#### 一款视频播放器
+https://gitee.com/muiplayer/hello-muiplayer
+
 #### github高质量项目合集
 
 [https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)
