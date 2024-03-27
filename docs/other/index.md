@@ -107,7 +107,21 @@ NiceFish（美人鱼） 是一个系列项目，目标是示范前后端分离�
 
 SSM水果源码：<br />[https://share.weiyun.com/FqoOfIVc](https://share.weiyun.com/FqoOfIVc)<br />下载链接2：<br />[https://gitee.com/springmeng/ssm-code](https://gitee.com/springmeng/ssm-code)<br />视频地址：[https://www.bilibili.com/video/BV1VA411i7xX](https://www.bilibili.com/video/BV1VA411i7xX)
 
+#### 13、“照片墙、视频墙”
+Wall是一款快速分享资源应用程序。俗称“照片墙、视频墙”，基于Vue3 + Spring Boot开发的云共享资源应用系统
+下载
+GitHub:https://github.com/super-tongyao/wall
 
+国内仓库（不推荐，只做加速访问，无编译包和发行版，以github仓库为准）：https://gitee.com/Super_TongYao/wall
+
+推荐github仓库，下载最新版就行。
+
+演示效果
+目前支持PC端和移动端自适应。
+
+演示地址：https://demo-wall.ityao.cn
+
+后台管理：https://demo-wall.ityao.cn/login，账号密码：admin/123456
 
 ### other
 
